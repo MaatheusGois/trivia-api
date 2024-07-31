@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual era o nome do pai de Melquisedeque, o rei de Salém mencionado em Gênesis?",
+        "correctAnswer": "Não é mencionado",
+        "incorrectAnswers": ["Abraão", "Nimrod", "Noé"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Quantos anos os levitas eram contados para o serviço no Tabernáculo segundo Números 4?",
+        "correctAnswer": "De 30 a 50 anos",
+        "incorrectAnswers": ["De 20 a 50 anos", "De 25 a 45 anos", "De 30 a 60 anos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do sacerdote que ajudou a conduzir os israelitas na volta do exílio babilônico e que liderou a reconstrução do templo?",
+        "correctAnswer": "Josué",
+        "incorrectAnswers": ["Esdras", "Neemias", "Zorobabel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do profeta que substituiu Elias e realizou o milagre de purificar as águas de Jericó?",
+        "correctAnswer": "Eliseu",
+        "incorrectAnswers": ["Elias", "Isaías", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Em qual livro do Antigo Testamento encontramos a visão das rodas dentro de rodas?",
+        "correctAnswer": "Ezequiel",
+        "incorrectAnswers": ["Daniel", "Isaías", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual era o nome da esposa de Ezequiel, que Deus disse para não lamentar sua morte?",
+        "correctAnswer": "Não é mencionado",
+        "incorrectAnswers": ["Hana", "Miriã", "Sara"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual apóstolo é conhecido por ser o autor da epístola aos Hebreus?",
+        "correctAnswer": "A autoria é debatida, mas frequentemente atribuída a Paulo",
+        "incorrectAnswers": ["Pedro", "João", "Tiago"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual o nome do rei que escreveu o livro de Provérbios e pediu a Deus sabedoria?",
+        "correctAnswer": "Salomão",
+        "incorrectAnswers": ["Davi", "Saul", "Ezequias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Em qual cidade Paulo foi apedrejado e dado como morto, mas continuou sua missão?",
+        "correctAnswer": "Listra",
+        "incorrectAnswers": ["Antióquia", "Éfeso", "Corinto"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do livro que contém a visão de João sobre a Nova Jerusalém?",
+        "correctAnswer": "Apocalipse",
+        "incorrectAnswers": ["Atos", "Gálatas", "Hebreus"]
+      }
+    ]
+  }
+  

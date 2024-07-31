@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual foi a principal razão para a divisão do reino de Israel em Israel e Judá?",
+        "correctAnswer": "O desentendimento sobre a liderança após a morte de Salomão",
+        "incorrectAnswers": ["Conflitos religiosos", "Ataques de inimigos", "Fome e seca"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro que é uma coleção de provérbios e sabedoria atribuída ao rei Salomão?",
+        "correctAnswer": "Provérbios",
+        "incorrectAnswers": ["Eclesiastes", "Cantares", "Salmos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual apóstolo escreveu a maior parte das cartas do Novo Testamento?",
+        "correctAnswer": "Paulo",
+        "incorrectAnswers": ["Pedro", "João", "Tiago"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do rei que ofereceu a Salomão a construção do templo em troca de acordo comercial?",
+        "correctAnswer": "Hiram",
+        "incorrectAnswers": ["Nabucodonosor", "Dario", "Ciro"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da esposa de Acabe que era conhecida por sua crueldade e perseguição aos profetas?",
+        "correctAnswer": "Jezabel",
+        "incorrectAnswers": ["Atalia", "Mical", "Raquel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual apóstolo foi um dos primeiros a seguir Jesus e também é conhecido por ter escrito o Evangelho de João?",
+        "correctAnswer": "João",
+        "incorrectAnswers": ["Pedro", "Mateus", "Marcos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do homem que foi vendido como escravo por seus irmãos e se tornou um alto oficial no Egito?",
+        "correctAnswer": "José",
+        "incorrectAnswers": ["Efraim", "Benjamin", "Rubem"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quem foram os três amigos de Daniel que foram lançados na fornalha ardente?",
+        "correctAnswer": "Sadraque, Mesaque e Abednego",
+        "incorrectAnswers": ["Daniel, Ezequias e Miquéias", "Jonas, Amós e Miqueias", "Elias, Eliseu e Samuel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro que conta a história de um jovem que é vendido como escravo e se torna o segundo no comando do Egito?",
+        "correctAnswer": "Gênesis",
+        "incorrectAnswers": ["Êxodo", "Levítico", "Números"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do evangelho que não contém uma narrativa da infância de Jesus, mas começa com seu ministério na Galileia?",
+        "correctAnswer": "Marcos",
+        "incorrectAnswers": ["Mateus", "Lucas", "João"]
+      }
+    ]
+  }
+  

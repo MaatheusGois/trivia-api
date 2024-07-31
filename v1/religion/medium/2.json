@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do rei de Judá que consultou a Belsazar, uma médium, e foi repreendido pelo profeta Daniel?",
+        "correctAnswer": "Belsazar",
+        "incorrectAnswers": ["Nabucodonosor", "Dario", "Ciro"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual foi o nome da esposa de Acabe que adorava Baal e perseguiu os profetas de Deus?",
+        "correctAnswer": "Jezabel",
+        "incorrectAnswers": ["Atalia", "Mical", "Raquel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual era o nome do homem que foi jogado na cova dos leões por orar a Deus e foi milagrosamente salvo?",
+        "correctAnswer": "Daniel",
+        "incorrectAnswers": ["Elias", "Moisés", "Ezequias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual era o nome do discípulo que foi chamado por Jesus de 'Simão, filho de Jonas' e teve seu nome mudado para Pedro?",
+        "correctAnswer": "Simão",
+        "incorrectAnswers": ["Tiago", "André", "João"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro que narra a história de um profeta que foi enviado por Deus a Nínive e tentou fugir?",
+        "correctAnswer": "Jonas",
+        "incorrectAnswers": ["Amós", "Miqueias", "Nahum"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual foi o nome da esposa de Isaac que também era prima de Abraão?",
+        "correctAnswer": "Rebeca",
+        "incorrectAnswers": ["Sara", "Miriam", "Lea"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro da Bíblia que contém o 'Sermão do Monte' proferido por Jesus?",
+        "correctAnswer": "Mateus",
+        "incorrectAnswers": ["Marcos", "Lucas", "João"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da cidade onde Jesus nasceu, conforme o Novo Testamento?",
+        "correctAnswer": "Belém",
+        "incorrectAnswers": ["Jerusalém", "Nazareth", "Jericó"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quem foi a esposa de Abraão que deu a luz a Ismael antes de Sara conceber Isaac?",
+        "correctAnswer": "Hagar",
+        "incorrectAnswers": ["Raquel", "Lea", "Miriã"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual apóstolo foi conhecido por sua dúvida inicial sobre a ressurreição de Jesus, recebendo o apelido de 'o incrédulo'?",
+        "correctAnswer": "Tomé",
+        "incorrectAnswers": ["Pedro", "André", "Mateus"]
+      }
+    ]
+  }
+  

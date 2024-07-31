@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do sacerdote que reconheceu Jesus como o Messias quando Maria e José o levaram ao templo quando ele ainda era um bebê?",
+        "correctAnswer": "Simeão",
+        "incorrectAnswers": ["Zacarias", "Eliseu", "Anás"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do rei que escreveu uma carta para os judeus que foram levados ao exílio na Babilônia, oferecendo-lhes um plano para seu retorno?",
+        "correctAnswer": "Ciro",
+        "incorrectAnswers": ["Dario", "Nabucodonosor", "Salomão"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do homem que, ao ser curado por Jesus, não retornou para agradecê-lo, sendo um dos dez leprosos curados?",
+        "correctAnswer": "Um samaritano",
+        "incorrectAnswers": ["Um fariseu", "Um escriba", "Um saduceu"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da esposa de Abraão que morreu em Hebrom e foi enterrada na caverna de Macpela?",
+        "correctAnswer": "Sara",
+        "incorrectAnswers": ["Rebeca", "Miriam", "Hagar"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do profeta que se escondeu em uma caverna depois de desafiar os profetas de Baal e pediu a morte a Deus?",
+        "correctAnswer": "Elias",
+        "incorrectAnswers": ["Eliseu", "Isaías", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do profeta menor que teve uma visão de um homem com um cordel de medir em sua mão e previu a restauração de Jerusalém?",
+        "correctAnswer": "Zacarias",
+        "incorrectAnswers": ["Malaquias", "Joel", "Amós"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do lugar onde os israelitas acamparam e receberam as leis de Deus após saírem do Egito?",
+        "correctAnswer": "O Monte Sinai",
+        "incorrectAnswers": ["Gileade", "Jordão", "Canaã"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do livro que registra a genealogia de Jesus e é conhecido por iniciar com a declaração 'O livro da geração de Jesus Cristo'?",
+        "correctAnswer": "Mateus",
+        "incorrectAnswers": ["Lucas", "João", "Marcos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do homem que matou 600 filisteus com uma queixada de burro?",
+        "correctAnswer": "Sampson",
+        "incorrectAnswers": ["Elias", "David", "Gideão"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do lugar onde Jesus fez seu primeiro milagre, transformando água em vinho?",
+        "correctAnswer": "Caná da Galileia",
+        "incorrectAnswers": ["Jerusalém", "Nazaré", "Cafarnaum"]
+      }
+    ]
+  }
+  

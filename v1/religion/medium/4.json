@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro que narra a história de um homem que fez um voto de nazireu e foi responsável por muitas vitórias de Israel, mas também por sua queda?",
+        "correctAnswer": "Juízes",
+        "incorrectAnswers": ["1 Samuel", "2 Samuel", "Reis"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual profeta foi chamado por Deus para profetizar sobre a destruição de Nínive, mas tentou fugir para Társis?",
+        "correctAnswer": "Jonas",
+        "incorrectAnswers": ["Amós", "Naum", "Miqueias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro do Novo Testamento que relata as cartas enviadas a várias igrejas e indivíduos, abordando questões de doutrina e prática cristã?",
+        "correctAnswer": "Epístolas",
+        "incorrectAnswers": ["Evangelhos", "Atos dos Apóstolos", "Apocalipse"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da mulher que foi a primeira a ver Jesus ressuscitado?",
+        "correctAnswer": "Maria Madalena",
+        "incorrectAnswers": ["Maria, mãe de Jesus", "Marta", "Sara"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual apóstolo foi chamado por Jesus enquanto estava coletando impostos?",
+        "correctAnswer": "Mateus",
+        "incorrectAnswers": ["Pedro", "João", "André"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro do Antigo Testamento que conta a história de uma mulher que se tornou rainha da Pérsia e salvou seu povo da destruição?",
+        "correctAnswer": "Esther",
+        "incorrectAnswers": ["Rute", "Miqueias", "Neemias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual foi o nome do primeiro rei de Israel que foi ungido por Samuel?",
+        "correctAnswer": "Saul",
+        "incorrectAnswers": ["Davi", "Salomão", "Jeroboão"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do rei de Judá que escreveu muitos dos Salmos e foi conhecido como 'o homem segundo o coração de Deus'?",
+        "correctAnswer": "Davi",
+        "incorrectAnswers": ["Salomão", "Ezequias", "Josias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro que segue o livro de Gênesis e descreve a saída dos israelitas do Egito?",
+        "correctAnswer": "Êxodo",
+        "incorrectAnswers": ["Levítico", "Números", "Deuteronômio"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quem foi o apóstolo que escreveu o livro de Atos dos Apóstolos e também o Evangelho de Lucas?",
+        "correctAnswer": "Lucas",
+        "incorrectAnswers": ["João", "Paulo", "Mateus"]
+      }
+    ]
+  }
+  

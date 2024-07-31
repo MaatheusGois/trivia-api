@@ -1,0 +1,93 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foram os pais de Caim e Abel?",
+        "correctAnswer": "Adão e Eva",
+        "incorrectAnswers": ["Noé e Sara", "Abraão e Sara", "Moisés e Miriam"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foi o rei de Israel conhecido por sua grande sabedoria?",
+        "correctAnswer": "Salomão",
+        "incorrectAnswers": ["Davi", "Saul", "Josias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do livro que segue imediatamente o Evangelho de Mateus?",
+        "correctAnswer": "Marcos",
+        "incorrectAnswers": ["Lucas", "João", "Atos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foi o profeta que conduziu os israelitas na travessia do rio Jordão?",
+        "correctAnswer": "Josué",
+        "incorrectAnswers": ["Moisés", "Elias", "Eliseu"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o livro da Bíblia que narra a história de Ester e como ela se tornou rainha?",
+        "correctAnswer": "Ester",
+        "incorrectAnswers": ["Rute", "Daniel", "Neemias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual o nome do discípulo que traiu Jesus por 30 peças de prata?",
+        "correctAnswer": "Judas Iscariotes",
+        "incorrectAnswers": ["Pedro", "João", "Tomé"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do livro que conta a história do povo de Israel na época do retorno do exílio babilônico?",
+        "correctAnswer": "Neemias",
+        "incorrectAnswers": ["Esdras", "Ester", "Rute"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do apóstolo que negou Jesus três vezes antes do canto do galo?",
+        "correctAnswer": "Pedro",
+        "incorrectAnswers": ["Paulo", "João", "André"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foi a mulher que tocou a borda do manto de Jesus e foi curada?",
+        "correctAnswer": "A mulher com fluxo de sangue",
+        "incorrectAnswers": ["Maria Madalena", "Marta", "Maria, mãe de Jesus"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quantos dias Jesus passou no deserto jejuando e sendo tentado pelo diabo?",
+        "correctAnswer": "40",
+        "incorrectAnswers": ["10", "20", "30"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foi o último juiz de Israel antes da monarquia ser estabelecida?",
+        "correctAnswer": "Samuel",
+        "incorrectAnswers": ["Débora", "Sansão", "Jefté"]
+      }
+    ]
+  }
+  

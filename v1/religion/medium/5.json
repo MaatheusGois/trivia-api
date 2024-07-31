@@ -1,0 +1,93 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da cidade onde Jesus realizou o milagre da multiplicação dos pães e peixes?",
+        "correctAnswer": "Betsaida",
+        "incorrectAnswers": ["Jerusalém", "Cafarnaum", "Nazareth"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do apóstolo que negou conhecer Jesus três vezes antes do galo cantar?",
+        "correctAnswer": "Pedro",
+        "incorrectAnswers": ["Tiago", "João", "Mateus"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do profeta que desafiou os profetas de Baal no Monte Carmelo?",
+        "correctAnswer": "Elias",
+        "incorrectAnswers": ["Eliseu", "Isaías", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da esposa de Jó que o encorajou a amaldiçoar a Deus e morrer?",
+        "correctAnswer": "Não é mencionada pelo nome",
+        "incorrectAnswers": ["Sara", "Miriam", "Rebeca"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro que conta a história de um jovem que se torna o rei de Israel após a morte de Saul?",
+        "correctAnswer": "1 Samuel",
+        "incorrectAnswers": ["2 Samuel", "Reis", "Crônicas"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quem foi a primeira mulher a ser descrita na Bíblia como uma juíza de Israel?",
+        "correctAnswer": "Débora",
+        "incorrectAnswers": ["Míriam", "Jael", "Esther"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro que é um apocalipse escrito por João e que descreve visões do fim dos tempos?",
+        "correctAnswer": "Apocalipse",
+        "incorrectAnswers": ["Daniel", "Ezequiel", "Mateus"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do livro que contém as leis dadas por Deus ao povo de Israel no deserto?",
+        "correctAnswer": "Levítico",
+        "incorrectAnswers": ["Êxodo", "Números", "Deuteronômio"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual foi o nome do jovem que foi vendido como escravo pelos seus irmãos e mais tarde se tornou governador do Egito?",
+        "correctAnswer": "José",
+        "incorrectAnswers": ["Efraim", "Benjamim", "Rubem"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do rei que pediu a Salomão que construísse um templo para Deus?",
+        "correctAnswer": "Davi",
+        "incorrectAnswers": ["Salomão", "Saul", "Ezequias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quem foi o apóstolo que inicialmente perseguiu os cristãos antes de se converter e se tornar um grande missionário?",
+        "correctAnswer": "Paulo",
+        "incorrectAnswers": ["Pedro", "João", "Tiago"]
+      }
+    ]
+  }
+  

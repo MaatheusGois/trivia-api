@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual era a profissão de Pedro e seu irmão André antes de seguirem Jesus?",
+        "correctAnswer": "Pescadores",
+        "incorrectAnswers": ["Carpinteiros", "Pastores", "Farmacêuticos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do pai de José, o homem que interpretou os sonhos do faraó no Egito?",
+        "correctAnswer": "Jacó",
+        "incorrectAnswers": ["Isaac", "Abraham", "Moisés"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foi o último profeta do Antigo Testamento?",
+        "correctAnswer": "Malaquias",
+        "incorrectAnswers": ["Isaías", "Ezequiel", "Daniel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do livro que conta a história da criação do mundo?",
+        "correctAnswer": "Gênesis",
+        "incorrectAnswers": ["Êxodo", "Levítico", "Números"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual o nome do rio onde João Batista batizou Jesus?",
+        "correctAnswer": "Rio Jordão",
+        "incorrectAnswers": ["Rio Nilo", "Rio Eufrates", "Rio Tigre"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do filho de Abraão e Sara, prometido por Deus?",
+        "correctAnswer": "Isaac",
+        "incorrectAnswers": ["Ismael", "Jacó", "Esaú"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual era a especialidade de Bezalel, que ajudou na construção do Tabernáculo?",
+        "correctAnswer": "Artesanato e design",
+        "incorrectAnswers": ["Agricultura", "Música", "Medicina"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foi o profeta que desafiou os profetas de Baal no Monte Carmelo?",
+        "correctAnswer": "Elias",
+        "incorrectAnswers": ["Eliseu", "Isaías", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do discípulo conhecido como o 'amado' de Jesus?",
+        "correctAnswer": "João",
+        "incorrectAnswers": ["Pedro", "Tiago", "André"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do livro da Bíblia que conta a história de Rute e sua sogra Noemi?",
+        "correctAnswer": "Rute",
+        "incorrectAnswers": ["Esdras", "Neemias", "Esther"]
+      }
+    ]
+  }
+  

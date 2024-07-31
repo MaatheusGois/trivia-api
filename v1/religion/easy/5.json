@@ -1,0 +1,93 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do irmão mais novo de José, conhecido por seus sonhos?",
+        "correctAnswer": "Benjamim",
+        "incorrectAnswers": ["Rubem", "Simeão", "Levi"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do pai de João Batista?",
+        "correctAnswer": "Zacarias",
+        "incorrectAnswers": ["José", "Simão", "Levi"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do discípulo que escreveu o Evangelho de João?",
+        "correctAnswer": "João",
+        "incorrectAnswers": ["Pedro", "Mateus", "Marcos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do rei que construiu o templo em Jerusalém?",
+        "correctAnswer": "Salomão",
+        "incorrectAnswers": ["Davi", "Ezequias", "Josias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foi o profeta que ungiu Saul e Davi como reis de Israel?",
+        "correctAnswer": "Samuel",
+        "incorrectAnswers": ["Elias", "Eliseu", "Isaías"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da esposa de Abraão que lhe deu um filho quando ele já era idoso?",
+        "correctAnswer": "Sara",
+        "incorrectAnswers": ["Hagar", "Rebeca", "Raquel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do jardim onde Jesus orou antes de ser crucificado?",
+        "correctAnswer": "Getsemani",
+        "incorrectAnswers": ["Eden", "Jardim das Oliveiras", "Gethsemane"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foi a mulher que ofereceu a Jesus um perfume caro e ungiu seus pés?",
+        "correctAnswer": "Maria Madalena",
+        "incorrectAnswers": ["Marta", "Maria, mãe de Jesus", "Raquel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do homem que Deus enviou um anjo para impedir que ele sacrificasse seu filho?",
+        "correctAnswer": "Abraão",
+        "incorrectAnswers": ["Moisés", "Noé", "Davi"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foram os primeiros homens criados por Deus segundo a Bíblia?",
+        "correctAnswer": "Adão e Eva",
+        "incorrectAnswers": ["Noé e Sara", "Moisés e Miriam", "Abraão e Sara"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do livro da Bíblia que é um relato de viagens e eventos dos apóstolos?",
+        "correctAnswer": "Atos dos Apóstolos",
+        "incorrectAnswers": ["Romanos", "Coríntios", "Gálatas"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do segundo filho de Adão e Eva, que se tornou um agricultor e foi morto por seu irmão?",
+        "correctAnswer": "Abel",
+        "incorrectAnswers": ["Caim", "Sete", "Enos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do rei que escreveu o livro de Eclesiastes e também é conhecido por sua sabedoria?",
+        "correctAnswer": "Salomão",
+        "incorrectAnswers": ["Davi", "Ezequias", "Josias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do profeta que, em sua visão, viu um rolo de livro com palavras escritas dentro e fora?",
+        "correctAnswer": "Ezequiel",
+        "incorrectAnswers": ["Isaías", "Daniel", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do homem que, por causa de sua desobediência a Deus, ficou paralítico e depois foi curado por Pedro?",
+        "correctAnswer": "Eneias",
+        "incorrectAnswers": ["Efraim", "Joaquim", "Simão"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual apóstolo foi conhecido como o 'apóstolo dos gentios' e escreveu várias cartas no Novo Testamento?",
+        "correctAnswer": "Paulo",
+        "incorrectAnswers": ["Pedro", "João", "Tiago"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do homem que teve um sonho de uma escada alcançando o céu e viu anjos subindo e descendo por ela?",
+        "correctAnswer": "Jacó",
+        "incorrectAnswers": ["Abraão", "Moisés", "José"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do profeta que desafiou a rainha Jezabel e mostrou a falsidade dos profetas de Baal no Monte Carmelo?",
+        "correctAnswer": "Elias",
+        "incorrectAnswers": ["Eliseu", "Isaías", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do livro que contém a história de um homem que viveu em uma terra distante e teve uma visão de um campo de ossos secos que foram restaurados à vida?",
+        "correctAnswer": "Ezequiel",
+        "incorrectAnswers": ["Daniel", "Amós", "Miqueias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do líder que foi escolhido por Deus para suceder Moisés e conduzir os israelitas na conquista de Canaã?",
+        "correctAnswer": "Josué",
+        "incorrectAnswers": ["Caleb", "Gideão", "Samuel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do profeta que previu o cativeiro de Babilônia e a restauração futura de Jerusalém, e teve uma visão do reino dos quatro animais?",
+        "correctAnswer": "Daniel",
+        "incorrectAnswers": ["Isaías", "Ezequiel", "Jeremias"]
+      }
+    ]
+  }
+  

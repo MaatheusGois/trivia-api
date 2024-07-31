@@ -1,0 +1,93 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do rei que consultou uma médium para invocar o espírito de Samuel?",
+        "correctAnswer": "Saul",
+        "incorrectAnswers": ["Davi", "Salomão", "Jeroboão"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do homem que fez um voto de nazireu e cuja força estava em seu cabelo?",
+        "correctAnswer": "Sampson",
+        "incorrectAnswers": ["Elias", "David", "Josué"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do livro que contém a visão de João sobre a nova Jerusalém e a vitória final sobre o mal?",
+        "correctAnswer": "Apocalipse",
+        "incorrectAnswers": ["Daniel", "Ezequiel", "Isaías"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do profeta que foi enviado por Deus para confrontar o rei Acabe e a rainha Jezabel?",
+        "correctAnswer": "Elias",
+        "incorrectAnswers": ["Eliseu", "Isaías", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do homem que, após ser curado da cegueira, tornou-se um testemunho vivo do poder de Jesus?",
+        "correctAnswer": "O cego de nascença",
+        "incorrectAnswers": ["O cego de Jericó", "O cego de Bethsaida", "O cego de Cafarnaum"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da mulher que foi transformada em uma coluna de sal por olhar para trás enquanto fugia de Sodoma?",
+        "correctAnswer": "A esposa de Ló",
+        "incorrectAnswers": ["Miriam", "Rebeca", "Sara"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do líder que sucedeu Moisés e liderou os israelitas na conquista de Canaã?",
+        "correctAnswer": "Josué",
+        "incorrectAnswers": ["Caleb", "Gideão", "Samuel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do profeta menor que teve uma visão de uma prenda de pasto e uma prenda de fogueira?",
+        "correctAnswer": "Amós",
+        "incorrectAnswers": ["Malaquias", "Joel", "Oséias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do discípulo que duvidou da ressurreição de Jesus até ver as marcas dos cravos em suas mãos?",
+        "correctAnswer": "Tomé",
+        "incorrectAnswers": ["Pedro", "João", "André"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do homem que, após ser jogado na cova dos leões, foi protegido por Deus e saiu ileso?",
+        "correctAnswer": "Daniel",
+        "incorrectAnswers": ["Elias", "Moisés", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da pessoa que, ao tentar tocar a Arca da Aliança quando ela estava prestes a cair, foi fulminado por Deus?",
+        "correctAnswer": "Uzá",
+        "incorrectAnswers": ["Nadabe", "Abiú", "Eli"]
+      }
+    ]
+  }
+  

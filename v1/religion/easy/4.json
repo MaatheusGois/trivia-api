@@ -1,0 +1,93 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual foi o primeiro milagre de Jesus registrado no Evangelho de João?",
+        "correctAnswer": "Transformar água em vinho",
+        "incorrectAnswers": ["Curar um cego", "Ressuscitar Lázaro", "Andar sobre as águas"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do apóstolo que escreveu o Evangelho de Lucas?",
+        "correctAnswer": "Lucas",
+        "incorrectAnswers": ["João", "Mateus", "Marcos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do pai de Samuel, o profeta?",
+        "correctAnswer": "Elcana",
+        "incorrectAnswers": ["Joaquim", "Davi", "Saul"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da esposa de Isaac?",
+        "correctAnswer": "Rebeca",
+        "incorrectAnswers": ["Raquel", "Lea", "Sara"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual livro da Bíblia é conhecido por ser um cântico de louvor e gratidão a Deus?",
+        "correctAnswer": "Salmos",
+        "incorrectAnswers": ["Provérbios", "Eclesiastes", "Cantares"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem foi a esposa de Boaz, segundo o livro de Rute?",
+        "correctAnswer": "Rute",
+        "incorrectAnswers": ["Naomi", "Esther", "Maria"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual foi a praga que Deus enviou ao Egito que fez com que Faraó liberasse os israelitas?",
+        "correctAnswer": "A morte dos primogênitos",
+        "incorrectAnswers": ["Rãs", "Piolhos", "Trevas"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do discípulo que foi conhecido como 'o publicano'?",
+        "correctAnswer": "Mateus",
+        "incorrectAnswers": ["Tomé", "Pedro", "Tiago"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quem ajudou Moisés a conduzir o povo de Israel após sua morte?",
+        "correctAnswer": "Josué",
+        "incorrectAnswers": ["Caleb", "Gideão", "Elias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do livro que é a sequência do livro de Atos dos Apóstolos?",
+        "correctAnswer": "Não há sequência direta",
+        "incorrectAnswers": ["Romanos", "Coríntios", "Gálatas"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da mãe de Samuel, que fez um voto de dedicar seu filho a Deus?",
+        "correctAnswer": "Hana",
+        "incorrectAnswers": ["Miriam", "Sara", "Rebeca"]
+      }
+    ]
+  }
+  

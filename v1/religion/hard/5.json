@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da esposa de Abraão que deu origem a Ismael e foi posteriormente expulsa de sua casa?",
+        "correctAnswer": "Hagar",
+        "incorrectAnswers": ["Sara", "Rebeca", "Miriam"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do rei que foi advertido por um profeta sobre a destruição de seu reino devido ao seu pecado, mas que depois se arrependeu e foi poupado temporariamente?",
+        "correctAnswer": "Manassés",
+        "incorrectAnswers": ["Josias", "Jeoaquim", "Ezequias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do homem que interpretou os sonhos de Faraó e previu sete anos de fome no Egito?",
+        "correctAnswer": "José",
+        "incorrectAnswers": ["Daniel", "Elias", "Moisés"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do livro do Antigo Testamento que contém uma oração de agradecimento e louvor a Deus por sua libertação do povo de Israel?",
+        "correctAnswer": "Neemias",
+        "incorrectAnswers": ["Esdras", "Rute", "Samuel"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da cidade onde Paulo teve sua visão de um homem macedônio pedindo ajuda para pregar o evangelho?",
+        "correctAnswer": "Troas",
+        "incorrectAnswers": ["Éfeso", "Filipos", "Corinto"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da esposa de Jacó que, após uma troca de esposas com sua irmã, deu à luz a José e Benjamim?",
+        "correctAnswer": "Raquel",
+        "incorrectAnswers": ["Lia", "Bilha", "Zilpa"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da mulher que escondeu os espias israelitas em sua casa e ajudou-os a escapar da cidade de Jericó?",
+        "correctAnswer": "Raabe",
+        "incorrectAnswers": ["Débora", "Miriam", "Esther"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do profeta que teve uma visão de um campo de ossos secos e profetizou que eles voltariam à vida?",
+        "correctAnswer": "Ezequiel",
+        "incorrectAnswers": ["Isaías", "Daniel", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do apóstolo que escreveu a carta aos Hebreus, abordando a superioridade de Cristo sobre a Lei?",
+        "correctAnswer": "Paulo",
+        "incorrectAnswers": ["Pedro", "João", "Tiago"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do lugar onde Jesus orou intensamente e suou gotas de sangue antes de ser preso?",
+        "correctAnswer": "Getsemani",
+        "incorrectAnswers": ["Gólgota", "Jerusalém", "Betânia"]
+      }
+    ]
+  }
+  

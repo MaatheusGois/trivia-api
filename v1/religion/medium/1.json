@@ -1,0 +1,93 @@
+{
+    "results": [
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual foi o primeiro milagre de Jesus registrado no Evangelho de João?",
+        "correctAnswer": "Transformar água em vinho",
+        "incorrectAnswers": ["Curar um cego", "Ressuscitar Lázaro", "Andar sobre as águas"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da cidade onde Davi foi ungido rei de Israel?",
+        "correctAnswer": "Hebrom",
+        "incorrectAnswers": ["Jerusalém", "Belém", "Nínive"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quem foi a mulher que ajudou a esconder os espiões de Josué em Jericó?",
+        "correctAnswer": "Raabe",
+        "incorrectAnswers": ["Débora", "Esther", "Lídia"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual foi o nome do rei da Babilônia que lançou Daniel na cova dos leões?",
+        "correctAnswer": "Dario",
+        "incorrectAnswers": ["Nabucodonosor", "Belsazar", "Ciro"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quantos anos o povo de Israel vagou pelo deserto antes de entrar na Terra Prometida?",
+        "correctAnswer": "40",
+        "incorrectAnswers": ["20", "30", "50"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual apóstolo é conhecido por ter sido um zelote antes de seguir Jesus?",
+        "correctAnswer": "Simão",
+        "incorrectAnswers": ["Pedro", "João", "Tiago"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual o nome da esposa de Isaac?",
+        "correctAnswer": "Rebeca",
+        "incorrectAnswers": ["Raquel", "Lea", "Sara"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Em qual livro da Bíblia encontramos o 'Cântico dos Cânticos'?",
+        "correctAnswer": "Cantares",
+        "incorrectAnswers": ["Provérbios", "Eclesiastes", "Salmos"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual foi o nome do juiz que derrotou os midianitas com apenas 300 homens?",
+        "correctAnswer": "Gideão",
+        "incorrectAnswers": ["Sansão", "Jefté", "Débora"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Quem foi o profeta que desafiou os profetas de Baal no Monte Carmelo?",
+        "correctAnswer": "Elias",
+        "incorrectAnswers": ["Eliseu", "Isaías", "Jeremias"]
+      },
+      {
+        "category": "religion",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual era o nome do pai de João Batista?",
+        "correctAnswer": "Zacarias",
+        "incorrectAnswers": ["José", "Simão", "Levi"]
+      }
+    ]
+  }
+  
