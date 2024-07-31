@@ -1,0 +1,92 @@
+{
+  "results": [
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quem foi o primeiro homem criado por Deus segundo a Bíblia?",
+      "correctAnswer": "Adão",
+      "incorrectAnswers": ["Noé", "Abraão", "Moisés"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Qual é o nome da esposa de Abraão?",
+      "correctAnswer": "Sara",
+      "incorrectAnswers": ["Rebeca", "Lea", "Raquel"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Qual profeta foi engolido por um grande peixe?",
+      "correctAnswer": "Jonas",
+      "incorrectAnswers": ["Elias", "Isaías", "Jeremias"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos dias e noites choveu durante o dilúvio na época de Noé?",
+      "correctAnswer": "40",
+      "incorrectAnswers": ["7", "30", "60"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Qual era o nome do irmão de Moisés?",
+      "correctAnswer": "Arão",
+      "incorrectAnswers": ["Josué", "Caleb", "Davi"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Qual é o primeiro livro do Novo Testamento?",
+      "correctAnswer": "Mateus",
+      "incorrectAnswers": ["Marcos", "Lucas", "João"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quem foi a mãe de Jesus?",
+      "correctAnswer": "Maria",
+      "incorrectAnswers": ["Marta", "Ana", "Elisabete"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Qual rei é conhecido por ter escrito muitos dos Salmos?",
+      "correctAnswer": "Davi",
+      "incorrectAnswers": ["Salomão", "Saul", "Ezequias"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quem foi o discípulo conhecido por duvidar da ressurreição de Jesus até ver as feridas?",
+      "correctAnswer": "Tomé",
+      "incorrectAnswers": ["Pedro", "João", "André"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Qual é o nome do apóstolo que escreveu a maior parte das cartas do Novo Testamento?",
+      "correctAnswer": "Paulo",
+      "incorrectAnswers": ["Pedro", "Tiago", "João"]
+    },
+    {
+      "category": "Religião",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Quantos livros há no Antigo Testamento?",
+      "correctAnswer": "39",
+      "incorrectAnswers": ["27", "32", "40"]
+    }
+  ]
+}
