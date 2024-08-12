@@ -1,0 +1,93 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da teoria que propõe que o universo passou por uma fase de expansão exponencial logo após o Big Bang?",
+        "correctAnswer": "Teoria da Inflação Cósmica",
+        "incorrectAnswers": ["Teoria do Big Bang", "Teoria da Gravidade Quântica", "Teoria da Relatividade Geral"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é a estrela mais massiva conhecida, localizada na constelação de Escorpião?",
+        "correctAnswer": "Eta Scorpii",
+        "incorrectAnswers": ["Betelgeuse", "Sirius", "Antares"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno que ocorre quando uma estrela ou galáxia é desviado de sua posição original devido ao campo gravitacional de um objeto massivo?",
+        "correctAnswer": "Lente Gravitacional",
+        "incorrectAnswers": ["Desvio para o Vermelho", "Efeito Doppler", "Polarização"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da região no espaço onde a gravidade é suficiente para manter uma estrela ou galáxia, mas não há emissão significativa de luz?",
+        "correctAnswer": "Halo Galáctico",
+        "incorrectAnswers": ["Núcleo Galáctico", "Disco Galáctico", "Barra Galáctica"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do buraco negro que se acredita estar localizado no centro da Galáxia M87 e foi o primeiro a ser fotografado?",
+        "correctAnswer": "Buraco Negro de M87",
+        "incorrectAnswers": ["Buraco Negro de Sagitário A*", "Buraco Negro de Cygnus X-1", "Buraco Negro de Andromeda"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da teoria que descreve a origem e a evolução das galáxias e como elas se agrupam em estruturas maiores?",
+        "correctAnswer": "Teoria da Formação de Galáxias",
+        "incorrectAnswers": ["Teoria da Relatividade Geral", "Teoria do Big Bang", "Teoria da Gravidade Quântica"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno que ocorre quando uma estrela supernova explodida deixa para trás uma estrela de nêutrons com uma intensidade magnética extrema?",
+        "correctAnswer": "Magnetar",
+        "incorrectAnswers": ["Pulsar", "Quasar", "Anã Branca"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da partícula hipotética que se acredita ser a principal componente da matéria escura do universo?",
+        "correctAnswer": "WIMP (Partícula Massiva de Interação Fraca)",
+        "incorrectAnswers": ["Axion", "Neutrino", "Glúon"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno em que a luz das estrelas em um aglomerado estelar é espalhada por nuvens de gás e poeira, resultando em uma imagem colorida e difusa?",
+        "correctAnswer": "Nebulosa",
+        "incorrectAnswers": ["Aglomerado Estelar", "Cinturão de Asteroides", "Nuvem de Magalhães"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do método de detecção de exoplanetas que usa a variação na velocidade radial de uma estrela devido à influência gravitacional de um planeta em órbita?",
+        "correctAnswer": "Método da Velocidade Radial",
+        "incorrectAnswers": ["Método de Trânsito", "Método de Microlente", "Método de Imagem Direta"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno onde a luz de uma estrela é desviada devido ao efeito de lentes gravitacionais por uma galáxia ou um buraco negro?",
+        "correctAnswer": "Arco Gravitacional",
+        "incorrectAnswers": ["Lente Gravitacional", "Efeito Doppler", "Desvio para o Vermelho"]
+      }
+    ]
+  }
+  

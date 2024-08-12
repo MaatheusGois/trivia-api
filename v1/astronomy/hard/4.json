@@ -1,0 +1,93 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da região ao redor de uma estrela onde as condições são adequadas para a existência de água líquida?",
+        "correctAnswer": "Zona Habitável",
+        "incorrectAnswers": ["Zona de Roche", "Zona de Hades", "Zona de Kuhn"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da teoria que descreve a origem das estruturas cosmológicas a partir de flutuações quânticas no início do universo?",
+        "correctAnswer": "Teoria da Inflação Cósmica",
+        "incorrectAnswers": ["Teoria do Big Bang", "Teoria da Relatividade Geral", "Teoria da Gravidade Quântica"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno observado quando uma estrela se move em torno do centro de uma galáxia em uma órbita altamente elíptica, resultando em variações significativas de brilho?",
+        "correctAnswer": "Variável Cefeida",
+        "incorrectAnswers": ["Pulsar", "Nova", "Supernova"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da estrela anã branca que tem uma atmosfera rica em oxigênio e carbono e é um remanescente de uma estrela que passou por uma fase de gigante vermelha?",
+        "correctAnswer": "Estrela Anã Branca de Carbono-Oxigênio",
+        "incorrectAnswers": ["Estrela Anã Branca de Hidrogênio", "Estrela Anã Branca de Hélio", "Estrela Anã Branca de Ferro"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da galáxia espiral localizada na constelação de Andrômeda que está em rota de colisão com a Via Láctea?",
+        "correctAnswer": "Galáxia de Andrômeda",
+        "incorrectAnswers": ["Galáxia do Triângulo", "Galáxia do Sombrero", "Galáxia de Bode"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do método de detecção de exoplanetas que observa a diminuição do brilho de uma estrela quando um planeta passa na frente dela?",
+        "correctAnswer": "Método de Trânsito",
+        "incorrectAnswers": ["Método da Velocidade Radial", "Método de Microlente", "Método de Imagem Direta"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da região ao redor de um buraco negro onde a radiação é tão intensa que impede a fuga de luz?",
+        "correctAnswer": "Horizonte de Eventos",
+        "incorrectAnswers": ["Esfera de Schwarzschild", "Esfera de Kerr", "Anel de Einstein"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do tipo de estrela que tem uma massa muito alta e é caracterizada por uma forte emissão de raios-X?",
+        "correctAnswer": "Buraco Negro Estelar",
+        "incorrectAnswers": ["Pulsar", "Quasar", "Estrela de Nêutrons"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno observado quando uma estrela em um sistema binário é eclipsada por seu companheiro, causando uma diminuição periódica de brilho?",
+        "correctAnswer": "Eclipse Estelar",
+        "incorrectAnswers": ["Supernova", "Nova", "Pulsar"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da radiação detectada no fundo do espaço que é um remanescente do Big Bang e fornece evidências para a expansão do universo?",
+        "correctAnswer": "Radiação Cósmica de Fundo",
+        "incorrectAnswers": ["Radiação de Hawking", "Radiação de Planck", "Radiação de Cerenkov"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da teoria que sugere que o universo se expandiu rapidamente em uma fração de segundo após o Big Bang, resolvendo problemas como a uniformidade e a isotropia do cosmos?",
+        "correctAnswer": "Teoria da Inflação Cósmica",
+        "incorrectAnswers": ["Teoria da Relatividade Geral", "Teoria do Big Bang", "Teoria da Gravidade Quântica"]
+      }
+    ]
+  }
+  

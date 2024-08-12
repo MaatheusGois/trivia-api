@@ -1,0 +1,92 @@
+{
+  "results": [
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome do fenômeno observado quando a luz de um objeto distante é desviado devido à presença de um buraco negro ou uma galáxia massiva no caminho?",
+      "correctAnswer": "Lente Gravitacional",
+      "incorrectAnswers": ["Desvio para o Vermelho", "Desvio para o Azul", "Efeito Doppler"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome da camada externa de uma estrela que emite a maior parte da luz visível e é composta por plasma quente?",
+      "correctAnswer": "Fotosfera",
+      "incorrectAnswers": ["Coroná", "Núcleo", "Cronosfera"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome do processo pelo qual uma estrela massiva evelhe e explode, liberando uma grande quantidade de energia e material estelar?",
+      "correctAnswer": "Supernova",
+      "incorrectAnswers": ["Nova", "Colapso Gravitacional", "Efeito de Lente Gravitacional"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome da teoria que descreve a formação do sistema solar a partir de uma nuvem de gás e poeira que entrou em colapso?",
+      "correctAnswer": "Teoria da Nuvem Protoplanetária",
+      "incorrectAnswers": ["Teoria do Big Bang", "Teoria da Inflação Cósmica", "Teoria da Gravidade Quântica"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome da estrela que, devido à sua proximidade com a Terra, serve como um padrão para medir distâncias astronômicas?",
+      "correctAnswer": "Sirius",
+      "incorrectAnswers": ["Vega", "Arcturus", "Proxima Centauri"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome do fenômeno onde a luz das estrelas em um aglomerado estelar é dispersada por uma nuvem de gás e poeira, criando uma nebulosa brilhante?",
+      "correctAnswer": "Nebulosa de Emissão",
+      "incorrectAnswers": ["Nebulosa de Reflexão", "Nebulosa Planetária", "Nebulosa Escura"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome do conceito que descreve o fato de que o universo está se expandindo e a taxa de expansão está acelerando?",
+      "correctAnswer": "Energia Escura",
+      "incorrectAnswers": ["Matéria Escura", "Força Gravitacional", "Matéria Bariónica"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome do fenômeno em que a luz de uma estrela passa perto de um objeto massivo, causando uma distorção no caminho da luz?",
+      "correctAnswer": "Efeito de Lente Gravitacional",
+      "incorrectAnswers": ["Efeito Doppler", "Desvio para o Vermelho", "Desvio para o Azul"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome do buraco negro que é o remanescente da colisão de duas estrelas de nêutrons, gerando ondas gravitacionais detectáveis?",
+      "correctAnswer": "Buraco Negro Binário",
+      "incorrectAnswers": ["Buraco Negro Estelar", "Buraco Negro Supermassivo", "Buraco Negro Primordial"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome da estrela que tem uma massa entre 8 e 25 vezes a massa do Sol e termina sua vida como uma supernova?",
+      "correctAnswer": "Estrela de Tipo O",
+      "incorrectAnswers": ["Estrela de Tipo M", "Estrela de Tipo K", "Estrela de Tipo B"]
+    },
+    {
+      "category": "astronomy",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Qual é o nome do processo de formação de planetas ao redor de uma estrela jovem a partir de um disco de gás e poeira?",
+      "correctAnswer": "Acreção Planetária",
+      "incorrectAnswers": ["Fusão Estelar", "Colapso Gravitacional", "Formação de Buracos Negros"]
+    }
+  ]
+}

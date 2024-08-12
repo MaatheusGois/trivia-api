@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da teoria que sugere que o universo está se expandindo a uma taxa acelerada devido a uma forma de energia escura?",
+        "correctAnswer": "Teoria da Energia Escura",
+        "incorrectAnswers": ["Teoria da Relatividade Geral", "Teoria do Big Bang", "Teoria da Gravidade Quântica"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno onde uma estrela de nêutrons emite radiação em pulsos regulares devido a um campo magnético intenso?",
+        "correctAnswer": "Pulsar",
+        "incorrectAnswers": ["Quasar", "Blazar", "Nuvem de Magalhães"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da região ao redor de um buraco negro onde a velocidade de escape é igual à velocidade da luz?",
+        "correctAnswer": "Horizonte de Eventos",
+        "incorrectAnswers": ["Esfera de Schwarzschild", "Esfera de Kerr", "Anel de Einstein"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da estrutura que mede as flutuações na radiação cósmica de fundo, fornecendo evidências para a inflação cósmica?",
+        "correctAnswer": "Mapa de Radiação Cósmica de Fundo",
+        "incorrectAnswers": ["Telescópio Hubble", "Observatório de Chandra", "Telescópio Spitzer"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da estrutura no centro das galáxias, onde se encontra um buraco negro supermassivo?",
+        "correctAnswer": "Núcleo Galáctico",
+        "incorrectAnswers": ["Halo Galáctico", "Disco Galáctico", "Barra Galáctica"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno onde a luz de um quasar é polarizada devido ao campo magnético ao seu redor?",
+        "correctAnswer": "Polarização de Quasar",
+        "incorrectAnswers": ["Redshift de Quasar", "Blue Shift", "Efeito Doppler"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é a distância aproximada em anos-luz entre o Sol e o centro da Galáxia Via Láctea?",
+        "correctAnswer": "26.000 anos-luz",
+        "incorrectAnswers": ["13.000 anos-luz", "50.000 anos-luz", "100.000 anos-luz"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da teoria que sugere que a matéria escura é composta por partículas não detectadas diretamente, mas inferidas por seus efeitos gravitacionais?",
+        "correctAnswer": "Teoria da Matéria Escura",
+        "incorrectAnswers": ["Teoria da Matéria Bariônica", "Teoria da Energia Escura", "Teoria da Gravidade Quântica"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno onde uma estrela se torna um buraco negro após sua morte, e a matéria ao seu redor forma um disco de acreção?",
+        "correctAnswer": "Colapso Gravitacional",
+        "incorrectAnswers": ["Nova", "Supernova", "Pulsar"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do efeito observado quando a luz de uma estrela que passa perto de um buraco negro é desviada devido à intensa gravidade?",
+        "correctAnswer": "Lente Gravitacional",
+        "incorrectAnswers": ["Efeito Doppler", "Desvio para o Vermelho", "Dispersão Rayleigh"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,93 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é a estrela de maior brilho aparente no céu noturno?",
+        "correctAnswer": "Sirius",
+        "incorrectAnswers": ["Canopus", "Arcturus", "Vega"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é a teoria que sugere que a estrutura observada no universo atual é resultado de flutuações quânticas no início do cosmos?",
+        "correctAnswer": "Teoria da Inflação Cósmica",
+        "incorrectAnswers": ["Teoria do Big Bang", "Teoria da Relatividade Geral", "Teoria da Matéria Escura"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da camada esférica de cometas e outros corpos pequenos que se acredita existir além do Cinturão de Kuiper?",
+        "correctAnswer": "Nuvem de Oort",
+        "incorrectAnswers": ["Cinturão de Kuiper", "Cinturão de Asteroides", "Disco Circunstelar"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é a unidade de medida usada para expressar a luminosidade de um objeto astronômico em relação à luminosidade do Sol?",
+        "correctAnswer": "Magnitude Solar",
+        "incorrectAnswers": ["Unidade Astronômica", "Ano-Luz", "Luminosidade Estelar"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da região no espaço onde a matéria é acelerada até velocidades relativísticas e emite radiação em várias frequências?",
+        "correctAnswer": "Blazar",
+        "incorrectAnswers": ["Pulsar", "Quasar", "Nova"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome da teoria que tenta unificar a gravidade com as forças eletromagnéticas, fraca e forte em uma única teoria?",
+        "correctAnswer": "Teoria da Grande Unificação",
+        "incorrectAnswers": ["Teoria da Relatividade Geral", "Teoria das Cordas", "Teoria da Matéria Escura"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do efeito que ocorre quando a luz de um objeto distante é esticada para comprimentos de onda mais longos devido à expansão do universo?",
+        "correctAnswer": "Desvio para o Vermelho",
+        "incorrectAnswers": ["Desvio para o Azul", "Efeito Doppler", "Desvio Gravitacional"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno que descreve a formação de um buraco negro a partir do colapso de uma estrela massiva?",
+        "correctAnswer": "Colapso Gravitacional",
+        "incorrectAnswers": ["Explosão Supernova", "Efeito de Lente Gravitacional", "Fusão Estelar"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é a região do espaço entre as galáxias que contém uma grande quantidade de gás e matéria escura, e tem uma densidade muito baixa?",
+        "correctAnswer": "Médio Intergaláctico",
+        "incorrectAnswers": ["Núcleo Galáctico", "Cinturão de Kuiper", "Nuvem de Oort"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do processo pelo qual uma estrela de nêutrons pode liberar uma quantidade significativa de energia através da emissão de radiação em intervalos regulares?",
+        "correctAnswer": "Emissão Pulsada",
+        "incorrectAnswers": ["Acreção de Matéria", "Radiação Termal", "Efeito de Lente Gravitacional"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Qual é o nome do fenômeno em que um quasar emite um jato de partículas de alta energia, perpendicular ao disco de acreção, que pode ser detectado em várias frequências?",
+        "correctAnswer": "Jato Relativístico",
+        "incorrectAnswers": ["Efeito de Lente Gravitacional", "Disco de Acreção", "Radiação de Hawking"]
+      }
+    ]
+  }
+  
