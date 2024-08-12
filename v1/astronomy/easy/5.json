@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do ponto mais brilhante no céu noturno, após a Lua?",
+        "correctAnswer": "Vênus",
+        "incorrectAnswers": ["Marte", "Júpiter", "Sirius"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da maior lua de Júpiter?",
+        "correctAnswer": "Ganimedes",
+        "incorrectAnswers": ["Europa", "Io", "Calisto"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quantas constelações reconhecidas oficialmente existem?",
+        "correctAnswer": "88",
+        "incorrectAnswers": ["72", "96", "104"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do fenômeno que ocorre quando a Terra passa entre o Sol e a Lua, projetando uma sombra sobre a Lua?",
+        "correctAnswer": "Eclipse Lunar",
+        "incorrectAnswers": ["Eclipse Solar", "Solstício", "Equinócio"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da estrela que serve como referência para o norte no céu noturno?",
+        "correctAnswer": "Estrela Polar",
+        "incorrectAnswers": ["Sirius", "Betelgeuse", "Vega"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do planeta anão mais massivo conhecido no Sistema Solar?",
+        "correctAnswer": "Eris",
+        "incorrectAnswers": ["Plutão", "Ceres", "Haumea"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é conhecido por ter ventos extremamente fortes, atingindo até 2.100 km/h?",
+        "correctAnswer": "Netuno",
+        "incorrectAnswers": ["Júpiter", "Saturno", "Urano"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é a idade aproximada do Sol?",
+        "correctAnswer": "4,6 bilhões de anos",
+        "incorrectAnswers": ["2 bilhões de anos", "6,4 bilhões de anos", "10 bilhões de anos"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da linha imaginária que divide a Terra em hemisférios norte e sul?",
+        "correctAnswer": "Equador",
+        "incorrectAnswers": ["Meridiano de Greenwich", "Trópico de Câncer", "Trópico de Capricórnio"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da fase da Lua em que ela está completamente iluminada?",
+        "correctAnswer": "Lua Cheia",
+        "incorrectAnswers": ["Lua Nova", "Quarto Crescente", "Quarto Minguante"]
+      }
+    ]
+  }
+  

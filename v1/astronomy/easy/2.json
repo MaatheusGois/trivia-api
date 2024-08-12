@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é conhecido como o 'Planeta Azul'?",
+        "correctAnswer": "Terra",
+        "incorrectAnswers": ["Urano", "Netuno", "Vênus"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é o segundo mais próximo do Sol?",
+        "correctAnswer": "Vênus",
+        "incorrectAnswers": ["Marte", "Mercúrio", "Terra"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta tem um dia que é mais longo que seu ano?",
+        "correctAnswer": "Vênus",
+        "incorrectAnswers": ["Mercúrio", "Marte", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o único planeta no Sistema Solar que é conhecido por abrigar vida?",
+        "correctAnswer": "Terra",
+        "incorrectAnswers": ["Marte", "Vênus", "Júpiter"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é conhecido por ter tempestades de poeira que podem durar meses?",
+        "correctAnswer": "Marte",
+        "incorrectAnswers": ["Vênus", "Mercúrio", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta tem a maior lua do Sistema Solar, chamada Ganimedes?",
+        "correctAnswer": "Júpiter",
+        "incorrectAnswers": ["Saturno", "Urano", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta tem o dia mais curto do Sistema Solar?",
+        "correctAnswer": "Júpiter",
+        "incorrectAnswers": ["Saturno", "Netuno", "Terra"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o menor planeta do Sistema Solar?",
+        "correctAnswer": "Mercúrio",
+        "incorrectAnswers": ["Marte", "Plutão", "Vênus"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta tem uma atmosfera densa e é coberto por nuvens de ácido sulfúrico?",
+        "correctAnswer": "Vênus",
+        "incorrectAnswers": ["Júpiter", "Urano", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é a lua de Saturno conhecida por ter mares de metano líquido?",
+        "correctAnswer": "Titã",
+        "incorrectAnswers": ["Encélado", "Europa", "Calisto"]
+      }
+    ]
+  }
+  

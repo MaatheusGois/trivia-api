@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é conhecido por sua característica cor azul devido ao metano em sua atmosfera?",
+        "correctAnswer": "Netuno",
+        "incorrectAnswers": ["Urano", "Júpiter", "Saturno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta possui uma grande mancha escura que é uma tempestade semelhante à Grande Mancha Vermelha de Júpiter?",
+        "correctAnswer": "Netuno",
+        "incorrectAnswers": ["Urano", "Saturno", "Vênus"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é a principal fonte de energia do Sistema Solar?",
+        "correctAnswer": "O Sol",
+        "incorrectAnswers": ["Júpiter", "A Terra", "Vênus"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta tem uma rotação retrógrada, girando em sentido oposto à maioria dos outros planetas?",
+        "correctAnswer": "Vênus",
+        "incorrectAnswers": ["Urano", "Netuno", "Júpiter"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é a maior lua de Saturno?",
+        "correctAnswer": "Titã",
+        "incorrectAnswers": ["Europa", "Io", "Encélado"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta possui uma inclinação axial extrema, resultando em estações muito pronunciadas?",
+        "correctAnswer": "Urano",
+        "incorrectAnswers": ["Vênus", "Saturno", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é conhecido por ter um sistema de anéis composto principalmente de gelo e poeira?",
+        "correctAnswer": "Saturno",
+        "incorrectAnswers": ["Júpiter", "Urano", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é conhecido por ter a maior montanha vulcânica do Sistema Solar, o Monte Olimpo?",
+        "correctAnswer": "Marte",
+        "incorrectAnswers": ["Vênus", "Mercúrio", "Terra"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta tem luas chamadas Fobos e Deimos?",
+        "correctAnswer": "Marte",
+        "incorrectAnswers": ["Júpiter", "Saturno", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta possui o maior número de luas conhecidas?",
+        "correctAnswer": "Júpiter",
+        "incorrectAnswers": ["Saturno", "Netuno", "Urano"]
+      }
+    ]
+  }
+  

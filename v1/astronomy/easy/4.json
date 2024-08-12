@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é a estrela mais próxima da Terra?",
+        "correctAnswer": "O Sol",
+        "incorrectAnswers": ["Sirius", "Alpha Centauri", "Betelgeuse"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do nosso satélite natural?",
+        "correctAnswer": "A Lua",
+        "incorrectAnswers": ["Titã", "Europa", "Ganimedes"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é a galáxia mais próxima da Via Láctea?",
+        "correctAnswer": "Galáxia de Andrômeda",
+        "incorrectAnswers": ["Galáxia de Triângulo", "Galáxia de Sombrero", "Galáxia de Whirlpool"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da maior estrela conhecida?",
+        "correctAnswer": "UY Scuti",
+        "incorrectAnswers": ["Betelgeuse", "Rigel", "Antares"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do fenômeno que ocorre quando a Lua passa entre a Terra e o Sol, bloqueando a luz solar?",
+        "correctAnswer": "Eclipse Solar",
+        "incorrectAnswers": ["Eclipse Lunar", "Solstício", "Equinócio"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da missão espacial que levou o primeiro ser humano à Lua?",
+        "correctAnswer": "Apollo 11",
+        "incorrectAnswers": ["Apollo 13", "Sputnik 1", "Voyager 1"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do planeta anão que foi reclassificado a partir do status de planeta em 2006?",
+        "correctAnswer": "Plutão",
+        "incorrectAnswers": ["Ceres", "Eris", "Makemake"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do telescópio espacial lançado pela NASA que revolucionou a astronomia?",
+        "correctAnswer": "Hubble",
+        "incorrectAnswers": ["James Webb", "Kepler", "Chandra"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome do cinturão de asteroides localizado entre Marte e Júpiter?",
+        "correctAnswer": "Cinturão de Asteroides",
+        "incorrectAnswers": ["Cinturão de Kuiper", "Nuvem de Oort", "Anel de Saturno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é a força responsável por manter os planetas em órbita ao redor do Sol?",
+        "correctAnswer": "Gravidade",
+        "incorrectAnswers": ["Eletromagnetismo", "Força Nuclear Forte", "Pressão de Radiação"]
+      }
+    ]
+  }
+  

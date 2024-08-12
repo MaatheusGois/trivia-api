@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o planeta mais próximo do Sol?",
+        "correctAnswer": "Mercúrio",
+        "incorrectAnswers": ["Vênus", "Marte", "Terra"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o maior planeta do Sistema Solar?",
+        "correctAnswer": "Júpiter",
+        "incorrectAnswers": ["Saturno", "Urano", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é conhecido como o 'Planeta Vermelho'?",
+        "correctAnswer": "Marte",
+        "incorrectAnswers": ["Vênus", "Júpiter", "Saturno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o nome da nossa galáxia?",
+        "correctAnswer": "Via Láctea",
+        "incorrectAnswers": ["Andrômeda", "Triângulo", "Sombrero"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Quantos planetas existem no Sistema Solar?",
+        "correctAnswer": "Oito",
+        "incorrectAnswers": ["Nove", "Sete", "Dez"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta tem um sistema de anéis visíveis da Terra?",
+        "correctAnswer": "Saturno",
+        "incorrectAnswers": ["Júpiter", "Urano", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é conhecido por seus ventos extremamente fortes?",
+        "correctAnswer": "Netuno",
+        "incorrectAnswers": ["Vênus", "Marte", "Saturno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta tem a maior montanha do Sistema Solar, o Monte Olimpo?",
+        "correctAnswer": "Marte",
+        "incorrectAnswers": ["Vênus", "Terra", "Mercúrio"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual planeta é famoso por sua grande mancha vermelha?",
+        "correctAnswer": "Júpiter",
+        "incorrectAnswers": ["Saturno", "Netuno", "Urano"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Qual é o planeta mais distante do Sol no Sistema Solar?",
+        "correctAnswer": "Netuno",
+        "incorrectAnswers": ["Urano", "Plutão", "Saturno"]
+      }
+    ]
+  }
+  
