@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a segunda estrela mais brilhante no céu noturno, depois de Sirius?",
+        "correctAnswer": "Canopus",
+        "incorrectAnswers": ["Vega", "Altair", "Betelgeuse"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do maior asteroide no Cinturão de Asteroides?",
+        "correctAnswer": "Ceres",
+        "incorrectAnswers": ["Vesta", "Pallas", "Hygiea"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da galáxia espiral barrada mais próxima da Via Láctea?",
+        "correctAnswer": "Galáxia de Andrômeda",
+        "incorrectAnswers": ["Galáxia de Triângulo", "Galáxia do Redemoinho", "Galáxia de Sombrero"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a principal diferença entre uma estrela anã branca e uma estrela de nêutrons?",
+        "correctAnswer": "Densidade e composição",
+        "incorrectAnswers": ["Tamanho", "Temperatura", "Luminosidade"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual planeta possui uma lua chamada Tritão, que tem uma órbita retrógrada?",
+        "correctAnswer": "Netuno",
+        "incorrectAnswers": ["Urano", "Júpiter", "Saturno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da teoria que descreve a origem do universo a partir de uma singularidade densa e quente?",
+        "correctAnswer": "Teoria do Big Bang",
+        "incorrectAnswers": ["Teoria do Estado Estacionário", "Teoria das Cordas", "Teoria da Inflação Cósmica"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do primeiro exoplaneta confirmado orbitando uma estrela semelhante ao Sol?",
+        "correctAnswer": "51 Pegasi b",
+        "incorrectAnswers": ["Kepler-22b", "Proxima Centauri b", "Gliese 581c"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da camada da atmosfera solar que é visível durante um eclipse solar total?",
+        "correctAnswer": "Coroa Solar",
+        "incorrectAnswers": ["Fotosfera", "Cromosfera", "Heliosfera"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a velocidade da luz no vácuo?",
+        "correctAnswer": "299.792 km/s",
+        "incorrectAnswers": ["150.000 km/s", "299.792 m/s", "500.000 km/s"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a estrela mais massiva conhecida na Via Láctea?",
+        "correctAnswer": "R136a1",
+        "incorrectAnswers": ["VY Canis Majoris", "UY Scuti", "Betelgeuse"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da maior lua de Saturno?",
+        "correctAnswer": "Titã",
+        "incorrectAnswers": ["Reia", "Dione", "Mimas"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a unidade de medida usada para expressar a distância entre a Terra e o Sol?",
+        "correctAnswer": "Unidade Astronômica (UA)",
+        "incorrectAnswers": ["Anos-luz", "Parsec", "Kilômetros"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual planeta possui o maior número de luas conhecidas?",
+        "correctAnswer": "Saturno",
+        "incorrectAnswers": ["Júpiter", "Urano", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do buraco negro supermassivo localizado no centro da Via Láctea?",
+        "correctAnswer": "Sagittarius A*",
+        "incorrectAnswers": ["Cygnus X-1", "M87*", "NGC 1277"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do fenômeno onde a luz de uma estrela é desviada ao passar por um objeto massivo, como um buraco negro?",
+        "correctAnswer": "Lente Gravitacional",
+        "incorrectAnswers": ["Desvio para o Vermelho", "Doppler Gravitacional", "Efeito Zeeman"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da maior estrutura conhecida no universo observável?",
+        "correctAnswer": "Grande Muralha Hércules-Corona Borealis",
+        "incorrectAnswers": ["Superaglomerado de Shapley", "Muralha Sloan", "Vazio Local"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do primeiro satélite artificial lançado pela humanidade?",
+        "correctAnswer": "Sputnik 1",
+        "incorrectAnswers": ["Explorer 1", "Luna 2", "Vanguard 1"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a principal fonte de energia das estrelas?",
+        "correctAnswer": "Fusão Nuclear",
+        "incorrectAnswers": ["Fissão Nuclear", "Reação Química", "Gravidade"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do cinturão de cometas localizado além de Netuno?",
+        "correctAnswer": "Cinturão de Kuiper",
+        "incorrectAnswers": ["Nuvem de Oort", "Cinturão de Asteroides", "Anel de Fótons"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do fenômeno que ocorre quando uma estrela morre e explode em uma explosão cataclísmica?",
+        "correctAnswer": "Supernova",
+        "incorrectAnswers": ["Nova", "Pulsar", "Quasar"]
+      }
+    ]
+  }
+  

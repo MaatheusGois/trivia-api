@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da região no espaço onde a gravidade é tão intensa que nada pode escapar, nem mesmo a luz?",
+        "correctAnswer": "Buraco Negro",
+        "incorrectAnswers": ["Estrela de Nêutrons", "Anã Branca", "Quasar"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do fenômeno em que a luz de uma estrela é absorvida por uma nuvem de gás e poeira, fazendo com que a estrela pareça escurecida?",
+        "correctAnswer": "Absorção Interestelar",
+        "incorrectAnswers": ["Dispersão Rayleigh", "Reflexão de Rayleigh", "Efeito Doppler"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual planeta possui uma inclinação axial tão extrema que seus polos estão quase no plano de sua órbita?",
+        "correctAnswer": "Urano",
+        "incorrectAnswers": ["Netuno", "Saturno", "Marte"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do fenômeno onde a luz de uma estrela é desviada pela gravidade de um objeto massivo, como um buraco negro?",
+        "correctAnswer": "Lente Gravitacional",
+        "incorrectAnswers": ["Dispersão Gravitacional", "Refração Gravitacional", "Desvio para o Vermelho"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do modelo astronômico que propõe que o Sol é o centro do Sistema Solar e que os planetas giram ao seu redor?",
+        "correctAnswer": "Modelo Heliocêntrico",
+        "incorrectAnswers": ["Modelo Geocêntrico", "Modelo Eletromagnético", "Modelo Nebular"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a maior lua de Marte?",
+        "correctAnswer": "Fobos",
+        "incorrectAnswers": ["Deimos", "Titã", "Io"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a principal fonte de energia de um buraco negro supermassivo no centro das galáxias?",
+        "correctAnswer": "Acreção de Matéria",
+        "incorrectAnswers": ["Fusão Nuclear", "Radiação Cósmica", "Efeito Doppler"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da estrutura no espaço que é formada por uma coleção de estrelas, gás e poeira?",
+        "correctAnswer": "Galáxia",
+        "incorrectAnswers": ["Nebulosa", "Aglomerado Estelar", "Sistema Estelar"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do telescópio espacial que foi lançado para estudar o universo em diferentes comprimentos de onda, especialmente no infravermelho?",
+        "correctAnswer": "Telescópio Espacial James Webb",
+        "incorrectAnswers": ["Telescópio Hubble", "Telescópio Chandra", "Telescópio Kepler"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do evento que ocorre quando a Terra passa pelo rastro de detritos deixado por um cometa, causando um aumento no número de meteoros visíveis?",
+        "correctAnswer": "Chuva de Meteoros",
+        "incorrectAnswers": ["Eclipse", "Conjunção", "Trânsito"]
+      }
+    ]
+  }
+  

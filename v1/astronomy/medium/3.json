@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da primeira missão tripulada que pousou na Lua?",
+        "correctAnswer": "Apollo 11",
+        "incorrectAnswers": ["Apollo 12", "Apollo 13", "Apollo 14"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do fenômeno onde um planeta passa diretamente entre a Terra e o Sol, bloqueando parcialmente a luz solar?",
+        "correctAnswer": "Trânsito Planetário",
+        "incorrectAnswers": ["Eclipse Solar", "Oposição", "Conjunção"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da nebulosa remanescente da explosão de uma supernova observada em 1054 d.C.?",
+        "correctAnswer": "Nebulosa do Caranguejo",
+        "incorrectAnswers": ["Nebulosa de Órion", "Nebulosa do Véu", "Nebulosa da Águia"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a unidade de medida usada para descrever a luminosidade de estrelas em comparação com o Sol?",
+        "correctAnswer": "Luminosidade Solar",
+        "incorrectAnswers": ["Magnitude Aparente", "Magnitude Absoluta", "Fluxo Radiante"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual planeta tem a maior variação de temperatura entre o dia e a noite?",
+        "correctAnswer": "Mercúrio",
+        "incorrectAnswers": ["Vênus", "Marte", "Terra"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da estrela gigante vermelha localizada na constelação de Órion?",
+        "correctAnswer": "Betelgeuse",
+        "incorrectAnswers": ["Rigel", "Aldebarã", "Antares"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do maior vulcão conhecido no Sistema Solar?",
+        "correctAnswer": "Olympus Mons",
+        "incorrectAnswers": ["Mauna Kea", "Monte Everest", "Pico de Orizaba"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do fenômeno onde a luz das estrelas parece cintilar devido à turbulência na atmosfera da Terra?",
+        "correctAnswer": "Cintilação Estelar",
+        "incorrectAnswers": ["Refração Atmosférica", "Dispersão Rayleigh", "Dispersão Mie"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do fenômeno em que um buraco negro captura matéria de uma estrela companheira?",
+        "correctAnswer": "Acreção",
+        "incorrectAnswers": ["Difusão", "Emissão", "Transição"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual planeta tem o maior sistema de anéis no Sistema Solar?",
+        "correctAnswer": "Saturno",
+        "incorrectAnswers": ["Júpiter", "Urano", "Netuno"]
+      }
+    ]
+  }
+  

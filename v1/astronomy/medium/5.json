@@ -1,0 +1,85 @@
+{
+    "results": [
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual planeta possui a menor densidade do Sistema Solar?",
+        "correctAnswer": "Saturno",
+        "incorrectAnswers": ["Júpiter", "Urano", "Netuno"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da teoria que descreve a expansão do universo a partir de um estado de alta densidade e temperatura?",
+        "correctAnswer": "Teoria do Big Bang",
+        "incorrectAnswers": ["Teoria do Estado Estacionário", "Teoria da Relatividade Geral", "Teoria da Inflação Cósmica"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do fenômeno onde um planeta passa diretamente entre a Terra e o Sol, fazendo com que o planeta pareça escurecido?",
+        "correctAnswer": "Trânsito",
+        "incorrectAnswers": ["Eclipse Solar", "Oposição", "Conjunção"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da teoria que descreve como a Lua se formou após uma colisão entre a Terra e um objeto do tamanho de Marte?",
+        "correctAnswer": "Teoria do Grande Impacto",
+        "incorrectAnswers": ["Teoria da Fissão", "Teoria da Captura", "Teoria da Acumulação"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do evento astronômico que ocorre quando um planeta, estrela ou galáxia é bloqueado parcial ou totalmente por outro objeto no espaço?",
+        "correctAnswer": "Oclusão",
+        "incorrectAnswers": ["Eclipse", "Trânsito", "Passagem"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome da nuvem esférica de cometas que envolve o Sistema Solar em grandes distâncias do Sol?",
+        "correctAnswer": "Nuvem de Oort",
+        "incorrectAnswers": ["Cinturão de Kuiper", "Cinturão de Asteroides", "Anel de Fótons"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a estrela mais próxima do Sol, localizada a cerca de 4,24 anos-luz de distância?",
+        "correctAnswer": "Proxima Centauri",
+        "incorrectAnswers": ["Alpha Centauri A", "Beta Centauri", "Sirius"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a forma básica da órbita de um planeta em torno de uma estrela, conforme descrito pela Lei das Áreas de Kepler?",
+        "correctAnswer": "Elíptica",
+        "incorrectAnswers": ["Circular", "Parabólica", "Hipérbola"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é o nome do ciclo de 11 anos em que a atividade solar, como manchas solares e erupções, aumenta e diminui?",
+        "correctAnswer": "Ciclo Solar",
+        "incorrectAnswers": ["Ciclo Lunar", "Ciclo de Milankovitch", "Ciclo de Gleissberg"]
+      },
+      {
+        "category": "astronomy",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Qual é a unidade usada para medir a massa das estrelas e outros corpos celestes, equivalente à massa do Sol?",
+        "correctAnswer": "Massa Solar",
+        "incorrectAnswers": ["Massa Terrestre", "Massa Lunar", "Massa Joviana"]
+      }
+    ]
+  }
+  
